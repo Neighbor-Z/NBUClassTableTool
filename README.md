@@ -2,6 +2,8 @@
 
 A SwiftUI rewrite of the NBU course table to ICS calendar file tool.
 
+By utilizing native development libraries and the powerful SwiftUI framework, the macOS version is designed to be more focused and more efficient, keeping its core functionality while delivering platform-specific unique experience.
+
 ## Features
 
 - Modern SwiftUI interface with dark mode support
